@@ -13,3 +13,4 @@ The most important conventions to upkeep if you don't want your PR rejected:
 * Not everyone has an ultrawide monitor. Try to keep lines below 120 characters in length.
 * Do not reformat existing code. Reformatting is done exclusively by the maintainers.
 * Annotations have one parameter per line, no exceptions
+* Do not pollute the repo with IDE-specific configuration files.
