@@ -1,7 +1,7 @@
 name: Crash
-description: The game crashes when ${MODNAME} is present
-title: "[Crash]: "
-labels: ["bug", "crash"]
+description: The game has a problem when ${MODNAME} is present
+title: "[Bug]: "
+labels: ["bug"]
 assignees:
   - falsepattern
 body:
