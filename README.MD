@@ -1,0 +1,1 @@
+This repo is a collection of prebuilt github and community files, which can be copy/pasted between different projects.
